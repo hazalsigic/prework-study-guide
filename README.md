@@ -2,7 +2,7 @@
 
 ## Description
 
-This webpage swas created to help bootcamp students to organise their notes.
+This webpage was created to help bootcamp students to organise their notes.
 
 
 ## Installation
@@ -18,5 +18,6 @@ N/A
 
 ## License
 
-MIT Licence
+Please refer to the LICENCE in the repo.
+
 ---
